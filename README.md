@@ -1,6 +1,6 @@
 # zama - Private Football 1X2 (FHEVM demo)
 
-This project demonstrates a privacy-preserving Football 1X2 betting flow on EVM-compatible chains using the FHEVM approach. The smart contract is under `contracts/`, and the frontend follows the structure of `fhe-rock-paper-scissors`.
+This project demonstrates a privacy-preserving Football 1X2 betting flow on EVM-compatible chains using the FHEVM approach. The smart contract is under `contracts/`.
 
 Note: The cryptographic logic here is a simplified demo and not production secure. It exists to show end-to-end workflow and frontend/contract integration.
 
